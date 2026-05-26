@@ -1,4 +1,4 @@
-# 🧠 Obsidian Second Brain
+# Obsidian Second Brain
 
 A personal knowledge management system built on Obsidian — designed to work with AI agents, automation, and your existing tools. Local-first, plaintext, agent-ready from day one.
 
