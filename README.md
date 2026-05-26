@@ -79,5 +79,8 @@ Complete design philosophy, agent architecture, n8n automation, Notion integrati
 → [DOCUMENTATION.md](./DOCUMENTATION.md)
 
 ---
+
 *Designed and built by Taha Al-Faqih,Berlin *
+
+
 *Built on Obsidian, plain Markdown, and the idea that knowledge compounds.*
