@@ -416,5 +416,4 @@ The competitive advantage of a well-maintained second brain compounds over time 
 
 ---
 
-*Built on Obsidian, n8n, Claude, and plain Markdown.*
-*Architecture: local-first, agent-readable, plaintext-permanent.*
+*Designed and built by Taha Al-Faqih,Berlin *
